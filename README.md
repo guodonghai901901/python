@@ -1,4 +1,0 @@
-python
-======
-
-python study link.
